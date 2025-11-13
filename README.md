@@ -1,16 +1,29 @@
-## Hi there 👋
+##👋 Hi, I'm Hugo
 
-<!--
-**sleepyhugo/sleepyhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student at Western Governors University**, working on building projects and growing my skills everyday.
+I enjoy full-stack development, Andriod apps, and small projects in Java.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Currently Working On
+- Finishing and improving my WGU projects (Java, Spring Boot, Andriod, Python)
+- A **Tic-Tac-Toe AI** in Python
+- A **Study Buddy mobile app** using React native & TypeScript
+- Updating my portfolio and preparing for tech roles
+
+---
+
+## 🛠 Tools & Technologies I Use
+**Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
+**Frameworks:** Spring Boot, Angular, React Native
+**Mobile:** Andriod Studio (Room DB, RecyclerView, alerts, sharing)
+**Cloud:**AWS Cloud Practitioner knowledge
+**Tools:** Git, GitHub, IntellJ IDEA, MySQL Workbench, VS Code
+
+---
+
+## 📬 How to Reach Me
+**LinkedIn:** www.linkedin.com/in/hugo-iboa
+**Email:** iboazain@gmail.com
+
+---

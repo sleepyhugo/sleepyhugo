@@ -16,8 +16,8 @@ I enjoy full-stack development, Android apps, and small projects in Java.
 ## 🛠 Tools & Technologies I Use
 **Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, SQL  
 **Frameworks:** Spring Boot, Angular, React Native  
-**Mobile:** Android Studio (Room DB, RecyclerView, alerts, sharing)  
-**Cloud:**AWS Cloud Practitioner knowledge  
+**Mobile:** Android Studio (Room DB, RecyclerView, alerts, sharing)   
+**Cloud:** AWS Cloud Practitioner knowledge  
 **Tools:** Git, GitHub, IntellJ IDEA, MySQL Workbench, VS Code  
 
 ---

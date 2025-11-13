@@ -1,4 +1,4 @@
-##👋 Hi, I'm Hugo
+# 👋 Hi, I'm Hugo
 
 I'm a **Software Engineering student at Western Governors University**, working on building projects and growing my skills everyday.
 I enjoy full-stack development, Andriod apps, and small projects in Java.

@@ -15,7 +15,7 @@ I’m currently focused on full-stack development, Android apps, and sharpening 
 
 ## 🛠 Tools & Technologies I Use
 **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
-**Frameworks:** Spring Boot 
+**Frameworks:** Spring Boot  
 **Mobile:** Android Studio (Room DB, RecyclerView, alerts, sharing)   
 **Cloud:** AWS Cloud Practitioner knowledge  
 **Tools:** Git, GitHub, IntellJ IDEA, MySQL Workbench, VS Code  
